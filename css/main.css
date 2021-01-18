@@ -1,0 +1,18 @@
+.first_screan{
+    margin-top: 80px;
+    padding: 15px;
+    width: 100%;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.tascks {
+    margin-top: 80px;
+    max-width: 1140px;
+    width: 100%;
+}
